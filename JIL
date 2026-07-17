@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Jesus Is Love</title>
+
+<style>
+body{
+    margin:0;
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    height:100vh;
+    background:#f8f6f1;
+    font-family:Georgia, serif;
+}
+
+h1{
+    font-size:72px;
+    color:#222;
+}
+</style>
+
+</head>
+
+<body>
+
+<h1>Jesus Is Love.</h1>
+
+</body>
+</html>
